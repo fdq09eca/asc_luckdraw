@@ -1,3 +1,6 @@
+![](./home_logoooo.png)
+![](./home_logoooo%20(1).png
+
 # Lucky draw
 
 This dice rolling app is created for HKIAPS, CUHK lucky draw event. Hidden keys are created for extra fun. Demo [here](https://fdq09eca.github.io/hkiaps_lucky_draw/).
