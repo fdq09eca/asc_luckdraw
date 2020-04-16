@@ -23,6 +23,11 @@ function playAudio(id, vol) {
   document.getElementById(id).play();
 }
 
+function stopAudio(audio) {
+  audio.pause();
+  audio.currentTime = 0;
+}
+
 document.getElementById("roll-button").addEventListener("click", rollDice);
 document.getElementById("mark_six").volume = 0.1;
 
@@ -39,9 +44,7 @@ document.addEventListener("keydown", function () {
   if (event.key === "Escape") {
     var sounds = document.getElementsByTagName("audio");
     for (i = 1; i < sounds.length; i++) {
-      sounds[i].pause();
-      sounds[i].currentTime = 0;
-      // sounds[i].ended();
+      stopAudio(sounds[i]);
     }
   }
 });
