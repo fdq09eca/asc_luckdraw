@@ -20,4 +20,4 @@ you may just <kbd>click</kbd> or _press and hold_ <kbd>Enter</kbd> to the `Roll`
 
 <a class="anchor" id="bgm"></a>1: It is background music. If it is activated, it loops forever. It ends unless the tab is killed.
 
-<a class="anchor" id="stop"></a>2: It stops audio tracks others than background music.
+<a class="anchor" id="stop"></a>2: It stops audio tracks other than background music.
