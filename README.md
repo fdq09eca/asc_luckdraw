@@ -1,11 +1,13 @@
 # Lucky draw
 
-This site is created for HKIAPS, CUHK lucky draw event.
-There are few hidden activation keys that may bring extra fun to the audience.
+This site is created for HKIAPS, CUHK lucky draw event. Hidden keys are created for extra fun.
 
 ## Usage
 
-you may just <kbd>click</kbd> or _press and hold_ <kbd>Enter</kbd> to the `Roll` button, while the latter creates better atsmophere.
+To roll the dice, do one of the followings:
+
+1. <kbd>Click</kbd> the `Roll` button.
+2. _Press and hold_ <kbd>Enter</kbd> to the `Roll` button, release upon request.
 
 ## Activation keys
 
