@@ -1,5 +1,4 @@
 ![](./home_logoooo.png)
-![](./home_logoooo%20(1).png
 
 # Lucky draw
 
