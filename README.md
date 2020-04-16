@@ -16,5 +16,5 @@ you may just <kbd>click</kbd> or _press and hold_ <kbd>Enter</kbd> to the `Roll`
 |  Mark Six [^bgm]   | <kbd>Space</kbd> |
 | Stop audio [^stop] |  <kbd>Esc</kbd>  |
 
-[^bgm]: It is background music. If it is activated, it loops forever. It ends unless closing the tab.
+[^bgm]: It is background music. If it is activated, it loops forever. It ends unless the tab is killed.
 [^stop]: It does not stop the background music, but only other audio tracks.
