@@ -27,13 +27,13 @@ document.getElementById("roll-button").addEventListener("click", rollDice);
 document.getElementById("mark_six").volume = 0.1;
 
 document.addEventListener("keydown", function () {
-  if (event.key === " ") {
+  if (event.key === "Alt") {
     playAudio("misshk", 1);
   }
   if (event.key === "Control") {
     playAudio("mario", 0.5);
   }
-  if (event.key === "Enter") {
+  if (event.key === " ") {
     playAudio("mark_six", 0.05);
   }
   if (event.key === "Escape") {
