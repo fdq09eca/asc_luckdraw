@@ -1,6 +1,6 @@
 # Lucky draw
 
-This site is created for HKIAPS, CUHK lucky draw event. Hidden keys are created for extra fun.
+This dice rolling app is created for HKIAPS, CUHK lucky draw event. Hidden keys are created for extra fun.
 
 ## Usage
 
