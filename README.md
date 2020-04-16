@@ -9,9 +9,11 @@ To roll the dice, do one of the followings:
 1. <kbd>Click</kbd> the `Roll` button.
 2. _Press and hold_ <kbd>Enter</kbd> to the `Roll` button, release upon request.
 
-## Activation keys
+## Hidden keys
 
-|              Audio               |  Activation Key  |
+Hit the following key for respecting Audio.
+
+|              Audio               |       Key        |
 | :------------------------------: | :--------------: |
 |          Mario victory           | <kbd>Ctrl</kdb>  |
 |             Miss HK              |  <kbd>Alt</kbd>  |
