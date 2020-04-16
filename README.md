@@ -18,7 +18,7 @@ To roll the dice, do one of the followings:
 |  Mark Six <sup>[1](#bgm)</sup>   | <kbd>Space</kbd> |
 | Stop audio <sup>[2](#stop)</sup> |  <kbd>Esc</kbd>  |
 
-## Futher development ideas
+## Further development ideas
 
 1. Make number of die to be optional (1, 2, 3...)
 2. show winner face upon result. (i.e. Dictionary and decision function)
