@@ -1,6 +1,6 @@
 # Lucky draw
 
-This dice rolling app is created for HKIAPS, CUHK lucky draw event. Hidden keys are created for extra fun.
+This dice rolling app is created for HKIAPS, CUHK lucky draw event. Hidden keys are created for extra fun. Demo [here](https://fdq09eca.github.io/hkiaps_lucky_draw/).
 
 ## Usage
 
