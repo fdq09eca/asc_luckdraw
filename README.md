@@ -11,7 +11,7 @@ To roll the dice, do one of the followings:
 
 ## Hidden keys
 
-Hit the following key for respecting Audio.
+Hit the following key for respective audio.
 
 |              Audio               |       Key        |
 | :------------------------------: | :--------------: |
