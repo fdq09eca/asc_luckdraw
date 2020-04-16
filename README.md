@@ -24,6 +24,7 @@ Hit the following key for respecting Audio.
 
 1. Make number of die to be optional (1, 2, 3...)
 2. show prize upon result. (i.e. Dictionary and decision function)
+3. arrow keys for volume control
 
 ---
 
