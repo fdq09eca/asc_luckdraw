@@ -9,12 +9,12 @@ you may just <kbd>click</kbd> or _press and hold_ <kbd>Enter</kbd> to the `Roll`
 
 ## Activation keys
 
-|       Audio        |  Activation Key  |
-| :----------------: | :--------------: |
-|   Mario victory    | <kbd>Ctrl</kdb>  |
-|      Miss HK       |  <kbd>Alt</kbd>  |
-|  Mark Six [^bgm]   | <kbd>Space</kbd> |
-| Stop audio [^stop] |  <kbd>Esc</kbd>  |
+|              Audio               |  Activation Key  |
+| :------------------------------: | :--------------: |
+|          Mario victory           | <kbd>Ctrl</kdb>  |
+|             Miss HK              |  <kbd>Alt</kbd>  |
+|  Mark Six <sup>[1](#bgm)</sup>   | <kbd>Space</kbd> |
+| Stop audio <sup>[2](#stop)</sup> |  <kbd>Esc</kbd>  |
 
-[^bgm]: It is background music. If it is activated, it loops forever. It ends unless the tab is killed.
-[^stop]: It does not stop the background music, but only other audio tracks.
+<a name="bgm">1</a>: It is background music. If it is activated, it loops forever. It ends unless the tab is killed.
+<a name="stop">2</a>: It does not stop the background music, but only other audio tracks.
