@@ -23,8 +23,7 @@ Hit the following key for respecting Audio.
 ## Further development ideas
 
 1. Make number of die to be optional (1, 2, 3...)
-2. show winner face upon result. (i.e. Dictionary and decision function)
-3. 未諗到.
+2. show prize upon result. (i.e. Dictionary and decision function)
 
 ---
 

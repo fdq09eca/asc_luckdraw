@@ -33,10 +33,10 @@ document.getElementById("mark_six").volume = 0.1;
 
 document.addEventListener("keydown", function () {
   if (event.key === "Alt") {
-    playAudio("misshk", 1);
+    playAudio("misshk", 0.3);
   }
   if (event.key === "Control") {
-    playAudio("mario", 0.5);
+    playAudio("mario", 0.2);
   }
   if (event.key === " ") {
     playAudio("mark_six", 0.05);
